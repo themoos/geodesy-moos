@@ -71,6 +71,7 @@ CMOOSGeodesy::CMOOSGeodesy()
     SetOriginLongitude(0.0);
     SetOriginLatitude(0.0);
     
+
 }
 
 CMOOSGeodesy::~CMOOSGeodesy()
