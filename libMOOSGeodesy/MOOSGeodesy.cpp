@@ -70,7 +70,7 @@ CMOOSGeodesy::CMOOSGeodesy()
     SetOriginEasting(0.0);
     SetOriginLongitude(0.0);
     SetOriginLatitude(0.0);
-    
+    m_iRefEllipsoid    = 23;
 
 }
 
